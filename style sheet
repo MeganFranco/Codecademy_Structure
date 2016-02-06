@@ -1,0 +1,21 @@
+img{
+    height: 100px;
+    width: 300px;
+    border: 1px solid #4682b4;
+    }
+a{
+    text-decoration: none;
+    color: #cc0000
+    }
+
+h1{
+    font-family:Verdana, sans-serif ;
+    color:#576d94 ;
+    font-size: medium ;
+    }
+
+p{
+    font-family: Garamond, serif;
+    color: #4a4943;
+    font-size: 18px;
+    }
