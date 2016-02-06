@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+        <img src="http://www.f-covers.com/cover/flowers-cherry-blossoms-3-facebook-cover-timeline-banner-for-fb.jpg"/>
+        <a href ="https://github.com/MeganFranco/Codecademy_Structure">And here is a link that will take me back</a>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+	<h1>This is the beginning</h1>
+	<p>And this is the middle</p>
+	</body>
+</html>
