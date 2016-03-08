@@ -1,0 +1,11 @@
+//DROPDOWN TOGGLE: http://s3.amazonaws.com/codecademy-content/courses/ltp2/js/yfp/app.js
+
+var main = function() {
+  $('.dropdown-toggle').click(function() {
+    $('.dropdown-menu').toggle();
+  });
+}
+
+$(document).ready(main);
+
+// The code then uses jQuery to run the main() function once the web page has fully loaded.
