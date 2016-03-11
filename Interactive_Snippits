@@ -9,3 +9,18 @@ var main = function() {
 $(document).ready(main);
 
 // The code then uses jQuery to run the main() function once the web page has fully loaded.
+
+//USE JS TO PRINT USER INPUT ON PAGE (note! completely redoes page, no CSS/previous contents of page)
+
+JS
+function returnTextInput () {
+  var userInput = document.getElementById("textInput").value;
+    document.write(userInput);
+    
+    console.log("conection functions");
+    console.log(userInput);
+};
+
+HTML
+Number of repeats:<input id="textInput" type="text">
+            <input type="submit" onclick="returnTextInput()">
